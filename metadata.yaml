@@ -1,5 +1,8 @@
 _repo: Star-Book-No-98-Suggestions-for-Fairs-and-Bazaars_62190
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62190-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62190#Star-Book-No-98-Suggestions-for-Fairs-and-Bazaars
 gutenberg_issued: '2020-05-21'
 gutenberg_type: Text
 identifiers:
